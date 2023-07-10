@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Lato;
+}
+
+.banner {
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.banner-text .lets {
+    color: #272727;
+    font-size: 65px;
+    font-weight: 800;
+    line-height: 1.3em;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.banner-text .banner-info{
+    color: rgba(39, 39, 39, 0.60);
+}
